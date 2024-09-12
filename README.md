@@ -1,6 +1,7 @@
 # projeto README
 👻 um projeto de teste com um arquivo README 🫠
-[<img src="./gif1.gif" alt="git da tela inicial">]
+
+![Project Demo](![leo ](image.png))
 
 ## tecnologias utiliadas
 - HTML
